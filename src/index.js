@@ -1,6 +1,5 @@
-import './style/master.scss'
+import './style/main.scss';
 
 const main = (() => {
 })();
 
-module.exports = main;
