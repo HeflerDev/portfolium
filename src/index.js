@@ -1,3 +1,6 @@
+import './style/master.scss'
+
 const main = (() => {
-  console.log('Webpack Running');
 })();
+
+module.exports = main;
